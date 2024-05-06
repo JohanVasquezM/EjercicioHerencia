@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using EjercicioHerencia;
+
+Calculadora calculadora = new Calculadora();
+calculadora.Imprimir();
